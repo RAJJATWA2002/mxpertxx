@@ -1,0 +1,59 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+android/app/build/
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Runner.xcworkspace/
+android/.gradle/
+android/local.properties
+
+# IDE specific
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# IntelliJ / Android Studio specific
+*.iws
+*.ipr
+*.iml
+
+# VS Code specific
+.vscode/
+.history/
+*.code-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.lock
+*.bak
+*.old
+*.pid
+*.seed
+*.out
+
+# Miscellaneous
+*.DS_Store
+*.apk
+*.jks
+*.keystore
+*.hprof
+*.sqlite*
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+*.coverage
+*.buildlog

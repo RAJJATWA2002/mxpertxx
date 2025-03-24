@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "872506616131",
+    "firebase_url": "https://mxpertz-cd67c-default-rtdb.firebaseio.com",
+    "project_id": "mxpertz-cd67c",
+    "storage_bucket": "mxpertz-cd67c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872506616131:android:4a7f642d3abf63067327f6",
+        "android_client_info": {
+          "package_name": "mxpertz.com.mxpertz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872506616131-h2lve2nbahuqb517g4a58ri4h7mpnt2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mxpertz.com.mxpertz",
+            "certificate_hash": "9c45f049a7b52b7698744ae93863bb7a404c0c95"
+          }
+        },
+        {
+          "client_id": "872506616131-6jk4s3nfr05a16tp5iap2r0337s7ci6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALbYdehFuMMve-j2LIZ_G4HrTPKMwC4Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872506616131-6jk4s3nfr05a16tp5iap2r0337s7ci6k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "872506616131-pfj75o0dkugu4ecjqq5ods1t5grtc4in.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mxpertz.com.mxpertz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
